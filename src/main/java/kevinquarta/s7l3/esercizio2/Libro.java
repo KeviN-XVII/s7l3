@@ -16,5 +16,5 @@ public class Libro {
         this.prezzo = prezzo;
     }
 
-    
+
 }
