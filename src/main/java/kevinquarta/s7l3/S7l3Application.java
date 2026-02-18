@@ -1,5 +1,6 @@
 package kevinquarta.s7l3;
 
+import kevinquarta.s7l3.esercizio1.Info;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -8,6 +9,7 @@ public class S7l3Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(S7l3Application.class, args);
+
 	}
 
 }
